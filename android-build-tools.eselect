@@ -4,7 +4,7 @@
 
 DESCRIPTION="Manage the android build tools symlinks"
 MAINTAINER="fedeliallalinea@gmail.com"
-VERSION="9999"
+VERSION="20170829"
 
 OPT_PATH="${EROOT%/}/opt"
 BUILD_TOOLS_PATH="${OPT_PATH}/android-sdk-update-manager/build-tools"
