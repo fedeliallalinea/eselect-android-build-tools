@@ -11,15 +11,19 @@ BUILD_TOOLS_PATH="${OPT_PATH}/android-sdk-update-manager/build-tools"
 
 BIN_TARGETS=(
 	aapt
+	aapt2
 	aidl
+	apksigner
 	bcc_compat
 	dexdump
+	dx
 	llvm-rs-cc
 	mainDexClasses
 	split-select
 	zipalign
 	arm-linux-androideabi-ld
 	i686-linux-android-ld
+	x86_64-linux-android-ld
 	mipsel-linux-android-ld
 )
 
